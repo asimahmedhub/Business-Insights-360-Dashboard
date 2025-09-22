@@ -21,28 +21,28 @@ I developed the **Business Insights 360 Dashboard** in Power BI, providing:
 ## 📊 Dashboard Views
 
 ### Navigation Page
-![Navigation Page](resized_screens/navigation_page.png)
+![Navigation Page](navigation_page.png)
 
 ### 💰 Finance View
-![Finance View](resized_screens/finance_view.png)
+![Finance View](finance_view.png)
 
 ### 📈 Sales View
-![Sales View](resized_screens/sales_view.png)
+![Sales View](sales_view.png)
 
 ### 🎯 Marketing View
-![Marketing View](resized_screens/marketing_view.png)
+![Marketing View](marketing_view.png)
 
 ### 🚚 Supply Chain View
-![Supply Chain View](resized_screens/supply_chain_view.png)
+![Supply Chain View](supply_chain_view.png)
 
 ### 🧠 Executive View
-![Executive View](resized_screens/executive_view.png)
+![Executive View](executive_view.png)
 
 ### ℹ️ Info View
-![Info View](resized_screens/info_view.png)
+![Info View](info_view.png)
 
 ### 🆘 Support View
-![Support View](resized_screens/support_view.png)
+![Support View](support_view.png)
 
 ---
 
@@ -61,4 +61,3 @@ This project was **built as part of the Codebasics Data Analytics Bootcamp 2.0**
 Original concept by Ashish Babaria (Codebasics) — reimagined with my own theme, layout, and design refinements.
 
 ---
-
