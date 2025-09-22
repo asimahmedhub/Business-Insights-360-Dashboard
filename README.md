@@ -73,8 +73,8 @@ This project was **built as part of the Codebasics Data Analytics Bootcamp 5.0**
 ## 🤝 Let’s Connect
 I’d love to hear your feedback, discuss analytics, or connect with fellow professionals:  
 
-- 🌐 LinkedIn: [Asim Ahmed](YOUR_LINKEDIN_PROFILE)  
-- 💻 GitHub: [Asim’s GitHub](YOUR_GITHUB_PROFILE)  
+- 🌐 LinkedIn: [Asim Ahmed](https://www.linkedin.com/in/asimahmedio)  
+- 💻 GitHub: [asimahmedhub](https://github.com/asimahmedhub)  
 - ✉️ Email: **asim.atia@gmail.com**  
 
 ---
