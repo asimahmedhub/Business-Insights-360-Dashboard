@@ -52,12 +52,12 @@ I developed the **Business Insights 360 Dashboard** in Power BI, providing:
 - Data Storytelling & Visualization Best Practices  
 
 ## 🔗 Live Dashboard
-[👉 Explore the Interactive Dashboard](https://app.powerbi.com/links/f2tzQ3MTpD?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=a2a3f492-f701-46f1-93db-ad51c2779ba2)
+[👉 Explore the Interactive Dashboard](https://app.powerbi.com/links/IZI14XrE7L?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=319b9e06-0cbf-4fc5-a9fa-e906530eede6)
 
 ---
 
 ## 🙌 Credit
-This project was **built as part of the Codebasics Data Analytics Bootcamp 2.0**.  
-Original concept by Ashish Babaria (Codebasics) — reimagined with my own theme, layout, and design refinements.
+This project was **built as part of the Codebasics Data Analytics Bootcamp 5.0**.  
+
 
 ---
